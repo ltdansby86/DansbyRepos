@@ -1,0 +1,6 @@
+c:\users\carl\documents\visual studio 2013\Projects\TypeofTriangle\TypeofTriangle\bin\Debug\TypeofTriangle.exe.config
+c:\users\carl\documents\visual studio 2013\Projects\TypeofTriangle\TypeofTriangle\bin\Debug\TypeofTriangle.exe
+c:\users\carl\documents\visual studio 2013\Projects\TypeofTriangle\TypeofTriangle\bin\Debug\TypeofTriangle.pdb
+c:\users\carl\documents\visual studio 2013\Projects\TypeofTriangle\TypeofTriangle\obj\Debug\TypeofTriangle.csprojResolveAssemblyReference.cache
+c:\users\carl\documents\visual studio 2013\Projects\TypeofTriangle\TypeofTriangle\obj\Debug\TypeofTriangle.exe
+c:\users\carl\documents\visual studio 2013\Projects\TypeofTriangle\TypeofTriangle\obj\Debug\TypeofTriangle.pdb

@@ -1,0 +1,6 @@
+c:\users\carl\documents\visual studio 2013\Projects\FibbCal\FibbCal\bin\Debug\FibbCal.exe.config
+c:\users\carl\documents\visual studio 2013\Projects\FibbCal\FibbCal\obj\Debug\FibbCal.csprojResolveAssemblyReference.cache
+c:\users\carl\documents\visual studio 2013\Projects\FibbCal\FibbCal\bin\Debug\FibbCal.exe
+c:\users\carl\documents\visual studio 2013\Projects\FibbCal\FibbCal\bin\Debug\FibbCal.pdb
+c:\users\carl\documents\visual studio 2013\Projects\FibbCal\FibbCal\obj\Debug\FibbCal.exe
+c:\users\carl\documents\visual studio 2013\Projects\FibbCal\FibbCal\obj\Debug\FibbCal.pdb
