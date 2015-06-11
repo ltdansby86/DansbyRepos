@@ -12,6 +12,7 @@ namespace Factorial
         {
             Factorial(4);
             Factorial(10);
+            Factorial(1);
 
         }
 
