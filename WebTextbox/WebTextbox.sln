@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTextbox", "WebTextbox\WebTextbox.csproj", "{96060C90-BED2-478A-B233-87F0C8C079AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96060C90-BED2-478A-B233-87F0C8C079AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96060C90-BED2-478A-B233-87F0C8C079AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96060C90-BED2-478A-B233-87F0C8C079AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96060C90-BED2-478A-B233-87F0C8C079AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

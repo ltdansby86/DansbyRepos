@@ -1,0 +1,22 @@
+﻿<script runat="server">
+    Sub submit(sender As Object, e As EventArgs)
+       p1.InnerHtml = "<b>You wrote:</b> " & textarea1.Value
+    End Sub
+</script>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+    <form runat="server">
+        Enter some text:<br>
+        <textarea id="textarea1" cols="35" rows="6" runat="server" />
+        <input type="submit" value="Submit" onserverclick="submit" runat="server" />
+        <p id="p1" runat="server" />
+    </form>
+
+</body>
+</html>

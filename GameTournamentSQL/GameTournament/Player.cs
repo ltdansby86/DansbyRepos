@@ -25,7 +25,7 @@ namespace WindowsFormsApplication1
         private int losses;
 
         
-        private List<string> games;
+        private List<Game> games;
         
 
 
@@ -39,7 +39,7 @@ namespace WindowsFormsApplication1
             get { return losses; }
             set { losses = value; }
         }
-        public List<string> Games
+        public List<Game> Games
         {
             get { return games; }
             set { games = value; }
@@ -63,18 +63,19 @@ namespace WindowsFormsApplication1
       public void createPlayer(Player newPlayer)
       {
       }
-    public void addGame(string title)
+      public void addGame(Game newGame)
       {
-          if (!Games.Contains(title))
+          if (!Games.Contains(newGame))
           {
-              Games.Add(title);
+              Games.Add(newGame);
           }
       }
-    public void removeGame(string title)
+    
+    public void removeGame(Game rGame )
     {
-        if (Games.Contains(title))
+        if (Games.Contains(rGame))
         {
-            Games.Remove(title);
+            Games.Remove(rGame);
         }
         else { }
     }
